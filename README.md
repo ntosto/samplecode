@@ -8,4 +8,4 @@ database.
 
 index.php is the code for a webpage that contains the .apk and shows
 screenshots of the app as well as the latest 20 entries in the SQL
-database.
+database. The webpage can be found at str.phtosted.com
